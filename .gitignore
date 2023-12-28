@@ -1,0 +1,4 @@
+zig-*
+isodir
+*.iso
+*.log
